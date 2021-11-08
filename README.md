@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dexctry
+- 👋 Hi, I’m abdelrahman AKA @dexctry
 - 👀 I’m interested in web devolopment and programming in general
 - 🌱 I’m currently learning computer sience and random related stuff i'm interested in
 - 💞️ I’m looking to collaborate on html and css projects (for now)
